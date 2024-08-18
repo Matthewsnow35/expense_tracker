@@ -14,8 +14,7 @@ To run this project, you'll need to have Python installed on your computer. If y
 # Clone the Repository
 You can clone this repository using Git:
 
-bash
-Copy code
+
 git clone https://github.com/yourusername/personal-expenses-tracker.git
 cd personal-expenses-tracker
 
